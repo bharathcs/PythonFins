@@ -118,3 +118,5 @@ class Holdings:
     
     def new_trade(self, new_trade):
         self.trades.append(new_tx(new_trade))
+
+# TESTING
